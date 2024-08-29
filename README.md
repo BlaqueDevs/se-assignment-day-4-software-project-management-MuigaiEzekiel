@@ -114,7 +114,15 @@ Ability to access and work on the software offline, with automatic syncing once 
 Robust security to ensure security of user data.
 A scalable software that grows according to user needs.
 Automated software to reduce manual effort.
+A software thst is easy to navigate and use.
 
 ## 12. What data is available regarding the market size and growth potential for your software?
-
+Total Addressable Market 
+This is the total revenue opportunity available if the software were to achieve 100% market share. It helps quantify the maximum potential for the software.
+Serviceable Available Market 
+This is the portion of TAM that your software can target based on your specific offerings and reach 
+Serviceable Obtainable Market 
+This is the portion of SAM that your software can realistically capture, based on your current resources, capabilities, and market strategy.
+Market Growth Rates
+Market growth rates show how fast the target market is expanding, which is critical for understanding the potential for future revenue growth.
 ## 13. How can understanding market trends inform your software’s positioning and development?
