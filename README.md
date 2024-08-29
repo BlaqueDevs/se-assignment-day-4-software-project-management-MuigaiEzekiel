@@ -93,6 +93,10 @@ Gantt charts simplify the complexity by breaking down the project into manageabl
 Gantt charts highlight the critical path, this helps project managers focus on tasks that are crucial for meeting deadlines.
 Gantt charts allow project managers to perform "what-if" analyses to assess the impact of changes.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Security and compliance concerns. Addressing security concerns helps to protect sensitive information and enhance customer trust.
+Poor user experience. Improving a software into user-friendly interface improves user satisfaction.
+Manual process. Automating manual processes reduces costs, minimizes errors, and frees up resources for more strategic activities, resulting in overall cost savings and improved operational efficiency
+Limited scalability and flexibility. Building Scalable and flexible software accommodate growth and changing requirements, ensuring long-term value and adaptability in a dynamic business environment.
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 A well defined problem statement helps identify the specific objectives and goals that the software solution needs to achieve.
 Defining the problem encourages a deeper analysis to understand the underlying issues and design a solution that effectively addresses the core issue, leading to a more sustainable and long-lasting outcome.
